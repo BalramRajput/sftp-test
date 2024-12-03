@@ -28,11 +28,11 @@ import java.util.Collection;
 import java.util.List;
 
 public class Main {
-    private static final String username = "username";
-    private static final String privateKey = "private Key as string";
-    private static final String password = "user's password";
-    private static final String passphrase = "private key passphrase";
-    private static final String host = "host";
+    private static final String username = "<Username>";
+    private static final String privateKey = "<private Key as string>";
+    private static final String password = "<user's password>";
+    private static final String passphrase = "<private key passphrase>";
+    private static final String host = "<localhost>";
     private static final int port = 22;
 
     private static final String DIR = "/";
