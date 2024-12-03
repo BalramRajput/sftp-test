@@ -15,3 +15,7 @@ This project is a simple SFTP connection client with support for various authent
 **Usage:**
 
 Simply replace the tokens with your credentials and run it from Main.java
+
+**Library Used:**
+
+Apache Mina SSHD
